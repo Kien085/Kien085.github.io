@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Kien Nguyen
+![Image](https://media-exp1.licdn.com/dms/image/C5603AQF0ysplGOAogg/profile-displayphoto-shrink_200_200/0/1539146453215?e=1616630400&v=beta&t=RYlwD--6DlKR01vq3C0EJji8TV9CLmUYOM9dEPKf6C8)
 
-You can use the [editor on GitHub](https://github.com/Kien085/Kien085.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bachelor of Science, Computer Science | June 2019	| UC San Diego | GPA: 3.565
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Masters of Science, Computer Science | March 2021	| UC San Diego | GPA: 3.620
 
-```markdown
-Syntax highlighted code block
+### Classes Taken
+ - CSE 11
 
-# Header 1
-## Header 2
-### Header 3
+## Skills/Programming Languages
+- Python
+- C++
+- Verilog
+- Java
+- OCaml
+- Prolog
+- MATLAB
+- Docker
+- Kubernetes
 
-- Bulleted
-- List
+## Papers
+- Kien Nguyen*, Subarna Tripathi*, Tanaya Guha, Bang Du and Truong Nguyen, "SG2Caps:  Revisiting Scene Graphs for Image Captioning", submitted to IJCAI 2021.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kien085/Kien085.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
